@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Examples\\Example001_Hello Console\\Example002_Hello User\\Example002_Hello User.csproj",
-      "projectName": "Example002_Hello User",
-      "projectPath": "D:\\C#\\Examples\\Example001_Hello Console\\Example002_Hello User\\Example002_Hello User.csproj",
+      "projectUniqueName": "D:\\C#\\Examples\\Examples.csproj",
+      "projectName": "Examples",
+      "projectPath": "D:\\C#\\Examples\\Examples.csproj",
       "packagesPath": "C:\\Users\\LuchinDK\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Examples\\Example001_Hello Console\\Example002_Hello User\\obj\\",
+      "outputPath": "D:\\C#\\Examples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LuchinDK\\AppData\\Roaming\\NuGet\\NuGet.Config"
